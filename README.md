@@ -133,5 +133,5 @@ This setup opens the door for much more complex and valuable lab scenarios. Some
 - Deploying FortiGate and Palo Alto firewalls 
 - Building a site-to-site VPN lab between different firewall vendors
 - Creating an Ansible-powered network automation lab
-- Simulating MPLS and BGP core networks
+- [Simulating MPLS and BGP core network](https://github.com/Josh-Rap/Exploring-MPLS-Networking-and-Configuration) (writeup in progress)
 - Setting up an SD-WAN testbed with different WAN edge devices
